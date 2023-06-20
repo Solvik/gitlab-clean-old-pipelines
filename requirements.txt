@@ -2,6 +2,6 @@ certifi==2021.10.8
 charset-normalizer==2.0.12
 idna==3.3
 python-gitlab==3.3.0
-requests==2.27.1
+requests==2.31.0
 requests-toolbelt==0.9.1
 urllib3==1.26.9
