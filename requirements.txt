@@ -1,5 +1,5 @@
 certifi==2021.10.8
-charset-normalizer==2.0.12
+charset-normalizer==3.3.2
 idna==3.3
 python-gitlab==3.3.0
 requests==2.27.1
